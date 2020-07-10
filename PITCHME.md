@@ -6,7 +6,7 @@
 
 ---
 
-![alt](splash/045483.png)
+![alt](sskcomjp/splash/045483.png)
 
 
 ---
