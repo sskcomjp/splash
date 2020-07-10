@@ -6,7 +6,7 @@
 
 ---
 
-<a href="https://github.com/sskcomjp"><img src="splash/045483.png" width="130%"/></a>
+<img src="https://github.com/sskcomjp/splash/blob/master/045483.jpg" width="25%"/>
 
 
 ---
