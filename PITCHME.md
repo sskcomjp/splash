@@ -6,7 +6,7 @@
 
 ---
 
-![alt](assets/045483.png)
+![alt](splash/045483.png)
 
 
 ---
