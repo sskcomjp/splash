@@ -6,7 +6,7 @@
 
 ---
 
-<img src="https://github.com/sskcomjp/splash/blob/master/045483.jpg" width="25%"/>
+![alt](https://japaclip.com/files/soy-sauce-pour.png)
 
 
 ---
