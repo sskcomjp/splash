@@ -6,7 +6,7 @@
 
 ---
 
-![alt](https://github.com/sskcomjp/splash/blob/master/045483.png)
+<a href="https://github.com/sskcomjp"><img src="splash/045483.png" width="130%"/></a>
 
 
 ---
